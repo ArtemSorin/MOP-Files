@@ -42,7 +42,8 @@
     }
     
     .icon {
-      background-color: #fff;
+      background-image: '/icons/apple.png';
+      background-color: #FE1507;
       width: 50px;
       height: 50px;
       border-radius: 50%;
@@ -88,7 +89,7 @@
               id: 3,
               name: 'NxtStudio',
               url: '/files/NxtStudio.zip',
-              description: '',
+              description: 'Симулятор программирования и настройки элементов промышленной автоматики с использованием стандарта IEC 61669.',
               icon: '',
               btncolor: '',
             }, {
