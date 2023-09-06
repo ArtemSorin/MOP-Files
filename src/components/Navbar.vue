@@ -1,32 +1,32 @@
 <template>
-    <nav class="navbar">
-      <div class="container">
-        <div class="logo">
-          <router-link to="/"><span class="red-text">МОП</span> <span class="black-text">ЭВМ</span></router-link>
-        </div>
-        <ul class="nav-buttons">
-          <li>
-            <button to="/">Home</button>
-          </li>
-          <li>
-            <button to="/about">About</button>
-          </li>
-          <li>
-            <button to="/contact">Contact</button>
-          </li>
-        </ul>
+  <nav class="navbar">
+    <div class="container">
+      <div class="logo">
+        <router-link to="/"><span class="red-text">МОП</span><span class="black-text">Files</span></router-link>
       </div>
-    </nav>
-  </template>
+      <ul class="nav-buttons">
+        <li>
+          <button to="/">Home</button>
+        </li>
+        <li>
+          <button to="/about">About</button>
+        </li>
+        <li>
+          <button to="/contact">Contact</button>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</template>
   
-  <script>
-  export default {
-    name: 'ANavbar',
-  };
-  </script>
+<script>
+export default {
+  name: 'ANavbar',
+};
+</script>
   
-  <style scoped>
-  .navbar {
+<style scoped>
+.navbar {
   background-color: #FFFFFF;
   height: 80px;
   overflow: hidden;
@@ -47,7 +47,7 @@
 }
 
 .red-text {
-color: red;
+  color: red;
 }
 
 .black-text {
@@ -78,4 +78,4 @@ color: red;
 .nav-buttons button:hover {
   color: red;
 }
-  </style>
+</style>
