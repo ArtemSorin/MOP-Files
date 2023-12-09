@@ -2,17 +2,17 @@
   <nav class="navbar">
     <div class="container">
       <div class="logo">
-        <router-link to="/"><span class="red-text">МОП</span><span class="black-text">Files</span></router-link>
+        <span class="red-text">МОП</span><span class="black-text">Files</span>
       </div>
       <ul class="nav-buttons">
         <li>
-          <button to="/">Home</button>
+          <router-link to="/">Home</router-link>
         </li>
         <li>
-          <button to="/about">About</button>
+          <router-link to="/about">About</router-link>
         </li>
         <li>
-          <button to="/contact">Contact</button>
+          <router-link to="/contact">Contact</router-link>
         </li>
       </ul>
     </div>
