@@ -1,16 +1,24 @@
 {
     "files": [
         {
-            "id": 1,
             "name": "Образец отчёта МОП ЭВМ",
-            "url": "https://disk.yandex.ru/i/vtWuZApuTHSqKQ",
+            "url": "/files/Образец отчёта МОП ЭВМ.docx",
             "description": "Шаблон отчёта по лабораторным работам.",
             "icons": [
                 "icons/word.svg"
             ]
         },
         {
-            "id": 2,
+            "name": "Draw.io",
+            "url": "https://disk.yandex.ru/d/nqeNDikLX0b3RQ",
+            "description": "Draw.io — это бесплатный онлайн-сервис, который помогает создавать блок-схемы, прототипы, инфографику и диаграммы любого вида. Сервисом пользуются разные IT-специалисты — от бизнес-аналитиков до разработчиков и дизайнеров.",
+            "icons": [
+                "icons/windows.svg",
+                "icons/macos.svg",
+                "icons/linux.svg"
+            ]
+        },
+        {
             "name": "Cisco Packet Tracer",
             "url": "https://disk.yandex.ru/d/nqeNDikLX0b3RQ",
             "description": "Симулятор сети передачи данных, выпускаемый фирмой Cisco Systems. Позволяет делать работоспособные модели сети, настраивать маршрутизаторы и коммутаторы, взаимодействовать между несколькими пользователями.",
@@ -21,18 +29,16 @@
             ]
         },
         {
-            "id": 3,
             "name": "NxtStudio",
-            "url": "https://disk.yandex.ru/d/4gSYm9tzs79cwA",
+            "url": "/files/nxtONE-3.0.1.0-x86.zip",
             "description": "Симулятор программирования и настройки элементов промышленной автоматики с использованием стандарта IEC 61669.",
             "icons": [
                 "icons/windows.svg"
             ]
         },
         {
-            "id": 4,
             "name": "Spin",
-            "url": "https://disk.yandex.ru/d/BJbWMbQOj4w87g",
+            "url": "/files/ispin.zip",
             "description": "Комплексное средство для верификации и симуляции описаний на языке Promela. iSpin был создан разработчиками Spin и распространяется по той же лицензии.",
             "icons": [
                 "icons/windows.svg",
@@ -41,16 +47,14 @@
             ]
         },
         {
-            "id": 5,
-            "name": "VisualDSP++",
-            "url": "https://disk.yandex.ru/d/zH_rkQWFKuw_CA",
+            "name": "VisualDSP++ 5.0",
+            "url": "/files/VisualDSP++5.0.zip",
             "description": "Интегральная Среда Разработки и Отладки (IDDE). Она позволяет удобно управлять разработкой прикладной программы для ЦСП ADSP-21xx от начала до конца.",
             "icons": [
                 "icons/windows.svg"
             ]
         },
         {
-            "id": 6,
             "name": "DOSBox",
             "url": "https://disk.yandex.ru/d/56a5k7D_lkahzQ",
             "description": "Эмулятор ПК под управлением старой операционной системы MS DOS.",
@@ -61,7 +65,6 @@
             ]
         },
         {
-            "id": 7,
             "name": "STM32Cube IDE 1.7.0",
             "url": "https://disk.yandex.ru/d/OatZkQWKtcrFcA",
             "description": "Универсальный инструмент разработки для нескольких ОС, который является частью программной экосистемы STM32Cube.",
@@ -72,7 +75,6 @@
             ]
         },
         {
-            "id": 8,
             "name": "Emulator renode 1.14.0",
             "url": "https://disk.yandex.ru/d/OatZkQWKtcrFcA",
             "description": "Renode был создан Antmicro как виртуальный инструмент разработки для многоузловых встроенных сетей (как проводных, так и беспроводных) и предназначен для обеспечения масштабируемого рабочего процесса для создания эффективных, проверенных и безопасных систем IoT.",
@@ -83,18 +85,16 @@
             ]
         },
         {
-            "id": 9,
             "name": "AllFusion Process Modeler 7",
-            "url": "https://disk.yandex.ru/d/OatZkQWKtcrFcA",
+            "url": "/files/AFPM7.zip",
             "description": "AllFusion Process Modeler 7 (ранее BPwin) - инструмент для моделирования, анализа, документирования и оптимизации бизнес-процессов.",
             "icons": [
                 "icons/windows.svg"
             ]
         },
         {
-            "id": 10,
             "name": "ARIS Express",
-            "url": "https://disk.yandex.ru/d/OatZkQWKtcrFcA",
+            "url": "/files/aris-express.zip",
             "description": "ARIS Express - это бесплатный инструмент моделирования для анализа и управления бизнес-процессами. Он поддерживает различные обозначения моделирования, такие как BPMN 2, цепочки процессов, управляемых событиями (EPC), организационные диаграммы, белые доски и т.д.",
             "icons": [
                 "icons/windows.svg"

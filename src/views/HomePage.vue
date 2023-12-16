@@ -4,7 +4,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300,400,700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300,400,700&display=swap" rel="stylesheet">
     <div class="file-container">
-        <div v-for="file in files" :key="file.id">
+        <div v-for="file in files" :key="file.name">
             <div class="rectangle">
                 <div class="rectangle-left">
                     <div class="icon-container">

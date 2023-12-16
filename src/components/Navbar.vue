@@ -66,16 +66,17 @@ export default {
   margin: 40px;
 }
 
-.nav-buttons button {
+.nav-buttons a {
   background-color: transparent;
   border: none;
-  color: black;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1.1em;
   cursor: pointer;
+  color: black;
+  text-decoration: none;
 }
 
-.nav-buttons button:hover {
+.nav-buttons a:hover {
   color: red;
 }
 </style>
