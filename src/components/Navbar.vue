@@ -18,13 +18,13 @@
     </div>
   </nav>
 </template>
-  
+
 <script>
 export default {
   name: 'ANavbar',
 };
 </script>
-  
+
 <style scoped>
 .navbar {
   background-color: #FFFFFF;

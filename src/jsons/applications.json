@@ -2,7 +2,7 @@
     "files": [
         {
             "name": "Образец отчёта МОП ЭВМ",
-            "url": "/files/Образец отчёта МОП ЭВМ.docx",
+            "url": "https://drive.google.com/drive/folders/16ps2RFDlCdoiQ8_Dzii_SpOk9yTObn89?usp=sharing",
             "description": "Шаблон отчёта по лабораторным работам.",
             "icons": [
                 "icons/word.svg"
@@ -10,7 +10,7 @@
         },
         {
             "name": "Draw.io",
-            "url": "https://disk.yandex.ru/d/nqeNDikLX0b3RQ",
+            "url": "https://drive.google.com/drive/folders/1_zkChhlozD1DSmKbIVrnlHx7qnx0AVt1?usp=sharing",
             "description": "Draw.io — это бесплатный онлайн-сервис, который помогает создавать блок-схемы, прототипы, инфографику и диаграммы любого вида. Сервисом пользуются разные IT-специалисты — от бизнес-аналитиков до разработчиков и дизайнеров.",
             "icons": [
                 "icons/windows.svg",
@@ -20,7 +20,7 @@
         },
         {
             "name": "Cisco Packet Tracer",
-            "url": "https://disk.yandex.ru/d/nqeNDikLX0b3RQ",
+            "url": "https://drive.google.com/drive/folders/1czpbC_fwpM2y73TTQh1BwvmOhwB9BGsu?usp=sharing",
             "description": "Симулятор сети передачи данных, выпускаемый фирмой Cisco Systems. Позволяет делать работоспособные модели сети, настраивать маршрутизаторы и коммутаторы, взаимодействовать между несколькими пользователями.",
             "icons": [
                 "icons/windows.svg",
@@ -30,7 +30,7 @@
         },
         {
             "name": "NxtStudio",
-            "url": "/files/nxtONE-3.0.1.0-x86.zip",
+            "url": "https://drive.google.com/drive/folders/1gzAJSY8zsS4T5WDHNTnHQSBnSp0XKzco?usp=sharing",
             "description": "Симулятор программирования и настройки элементов промышленной автоматики с использованием стандарта IEC 61669.",
             "icons": [
                 "icons/windows.svg"
@@ -38,7 +38,7 @@
         },
         {
             "name": "Spin",
-            "url": "/files/ispin.zip",
+            "url": "https://drive.google.com/drive/folders/18264cemWab1prDAwnf1Zaqy-zUti5PIi?usp=sharing",
             "description": "Комплексное средство для верификации и симуляции описаний на языке Promela. iSpin был создан разработчиками Spin и распространяется по той же лицензии.",
             "icons": [
                 "icons/windows.svg",
@@ -47,8 +47,8 @@
             ]
         },
         {
-            "name": "VisualDSP++ 5.0",
-            "url": "/files/VisualDSP++5.0.zip",
+            "name": "VisualDSP++ 5.1.2",
+            "url": "https://drive.google.com/drive/folders/1j_ScwFIA4PVaOe3J9IJbdE8KhDfN0x6f?usp=sharing",
             "description": "Интегральная Среда Разработки и Отладки (IDDE). Она позволяет удобно управлять разработкой прикладной программы для ЦСП ADSP-21xx от начала до конца.",
             "icons": [
                 "icons/windows.svg"
@@ -56,7 +56,7 @@
         },
         {
             "name": "DOSBox",
-            "url": "https://disk.yandex.ru/d/56a5k7D_lkahzQ",
+            "url": "https://drive.google.com/drive/folders/1FJ761CMxQSRYTrwQThngQHARX-vz2r9w?usp=sharing",
             "description": "Эмулятор ПК под управлением старой операционной системы MS DOS.",
             "icons": [
                 "icons/windows.svg",
@@ -66,7 +66,7 @@
         },
         {
             "name": "STM32Cube IDE 1.7.0",
-            "url": "https://disk.yandex.ru/d/OatZkQWKtcrFcA",
+            "url": "https://drive.google.com/drive/folders/1c1PgDY1E0POjsahU0fUe0kzGVCHZGATC?usp=sharing",
             "description": "Универсальный инструмент разработки для нескольких ОС, который является частью программной экосистемы STM32Cube.",
             "icons": [
                 "icons/windows.svg",
@@ -75,8 +75,8 @@
             ]
         },
         {
-            "name": "Emulator renode 1.14.0",
-            "url": "https://disk.yandex.ru/d/OatZkQWKtcrFcA",
+            "name": "Emulator renode 1.15.0",
+            "url": "https://drive.google.com/drive/folders/1QtiH14Mg_giV-uBClpneKFKfI7263QUG?usp=sharing",
             "description": "Renode был создан Antmicro как виртуальный инструмент разработки для многоузловых встроенных сетей (как проводных, так и беспроводных) и предназначен для обеспечения масштабируемого рабочего процесса для создания эффективных, проверенных и безопасных систем IoT.",
             "icons": [
                 "icons/windows.svg",
@@ -86,16 +86,24 @@
         },
         {
             "name": "AllFusion Process Modeler 7",
-            "url": "/files/AFPM7.zip",
-            "description": "AllFusion Process Modeler 7 (ранее BPwin) - инструмент для моделирования, анализа, документирования и оптимизации бизнес-процессов.",
+            "url": "https://drive.google.com/drive/folders/1gqe8PATJk62xexECIuH0yUPNCCU04AgM?usp=sharing",
+            "description": "AllFusion Process Modeler 7 (ранее BPwin) — инструмент для моделирования, анализа, документирования и оптимизации бизнес-процессов.",
             "icons": [
                 "icons/windows.svg"
             ]
         },
         {
             "name": "ARIS Express",
-            "url": "/files/aris-express.zip",
-            "description": "ARIS Express - это бесплатный инструмент моделирования для анализа и управления бизнес-процессами. Он поддерживает различные обозначения моделирования, такие как BPMN 2, цепочки процессов, управляемых событиями (EPC), организационные диаграммы, белые доски и т.д.",
+            "url": "https://drive.google.com/drive/folders/1Skg2en4fGpLASm_6UQYVIMDJGOt6fbK9?usp=sharing",
+            "description": "ARIS Express — это бесплатный инструмент моделирования для анализа и управления бизнес-процессами. Он поддерживает различные обозначения моделирования, такие как BPMN 2, цепочки процессов, управляемых событиями (EPC), организационные диаграммы, белые доски и т.д.",
+            "icons": [
+                "icons/windows.svg"
+            ]
+        },
+        {
+            "name": "Rational Rose",
+            "url": "https://drive.google.com/drive/folders/1WMxCegCQDTusqxL2kOcltohUPMpSndQE?usp=sharing",
+            "description": "Rational Rose — мощное средство анализа, моделирования и разработки программных систем.",
             "icons": [
                 "icons/windows.svg"
             ]
